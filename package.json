@@ -20,10 +20,15 @@
   "keywords": [
     "cli",
     "create-project",
-    "react",
     "typescript",
     "javascript",
-    "setup"
+    "setup",
+    "react",
+    "next.js",
+    "vite",
+    "vue",
+    "tailwind",
+    "shadcn"
   ],
   "type": "module",
   "author": "",
