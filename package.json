@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "src/index.js",
   "bin": {
-    "@pishangshedappp/universe-setup": "bin/universe-setup.js",
+    "@pishangshedappp/universe-setup": "bin/universe-setup",
     "universe-setup": "bin/universe-setup.js"
   },
   "publishConfig": {
