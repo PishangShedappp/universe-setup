@@ -17,7 +17,7 @@ You will be asked the followings to setup your project:
 ## Optional:
 
 #### Vite
-If you select **Vue** you will be asked an extra question:
+If you select **Vite** you will be asked an extra question:
 ```bash
 ? Which Vite framework do you want to use? (Use arrow keys)
 ```
