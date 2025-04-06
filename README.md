@@ -1,3 +1,4 @@
+
 # Universe Setup
 
 **Universe Setup** is a powerful CLI tool designed to help developers quickly start projects with pre-configured templates and integrated technologies. It provides a range of ready-to-use templates that make bootstrapping a new project faster and easier.
@@ -43,10 +44,10 @@ We welcome contributions to Universe Setup! If you have a template, framework, o
 - Try to ensure that templates are easy to use and maintainable.
 
 ## Issues
-If you encounter any bugs or have feature requests, please open an issue in the (Issues)[https://github.com/PishangShedappp/universe-setup/issues] section.
+If you encounter any bugs or have feature requests, please open an issue in the [Issues](https://github.com/PishangShedappp/universe-setup/issues) section.
 
 ## License
-This project is licensed under the MIT License - see the (LICENSE)[https://github.com/PishangShedappp/universe-setup/blob/main/LICENSE] file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/PishangShedappp/universe-setup/blob/main/LICENSE) file for details.
 
 ## Support 
 If you need help or have questions, feel free to reach out to the maintainers or open an issue. We're here to help!
