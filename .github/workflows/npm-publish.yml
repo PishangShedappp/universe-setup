@@ -1,8 +1,9 @@
 name: Npm Publish
 
 on:
-  release:
-    types: [published]
+  push:
+    branches:
+      - main # Or your main development branch (e.g., master, develop)
 
 jobs:
   build:
